@@ -1,0 +1,23 @@
+.index-background {
+    background-image: url('../../imagens/indexBackGround.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;   
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.login-background {
+    background-image: url('../../imagens/loginBackGround.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.login-cadastro-usuario{
+    background-image: url('../../imagens/cadastroUsuario.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}

@@ -1,0 +1,10 @@
+@import url('global/background.css');
+
+.transparencia {
+    background-color: rgb(187, 252, 167, 0.85);
+}
+
+.bi{
+    font-size: 3rem;
+    color: #000;
+}
